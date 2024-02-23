@@ -1,0 +1,19 @@
+body{
+background-image: url(https://s3-prod.adage.com/s3fs-public/20230918_40U40_Taylor_Everette_3X2.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-color: #9d9fab;
+}
+h1{
+    color: white;
+}
+p{
+    text-align: left;
+    color: white;
+    font-size: large;
+}
+table, th, td{
+    color: white;
+    border: 1px solid white;
+    background-color: black;
+}
